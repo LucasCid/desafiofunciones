@@ -1,0 +1,7 @@
+.color-div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
